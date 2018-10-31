@@ -2,7 +2,7 @@
 
 Name: lugaru
 Version: 1.2
-Release: 1
+Release: 2
 URL: https://osslugaru.gitlab.io
 Source0: https://bitbucket.org/osslugaru/lugaru/downloads/lugaru-%{version}.tar.xz
 Group: Games/Action
